@@ -14,5 +14,6 @@ public class CustomerMain {
 
         log.info("Customer ID: " + customer.getCustomerId());
         log.info("Customer Name: " + customer.getCustomerName());
+
     }
 }
